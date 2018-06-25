@@ -1,0 +1,4 @@
+files/*
+!files/index.html
+plugins/*.php
+config.php
